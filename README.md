@@ -47,4 +47,53 @@
 
 
 
-Follow Me
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+<img hight="320" width="450" align="right" alt="jpg" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/9pSnJM-rrSo.jpg">
+
+
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+
+<a href="mailto:aeolusumeros@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/gmail.svg" />
+</a>
+<a href="https://www.linkedin.com/in/султан-сулеев-1616a3162/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/linkedin.svg" />
+</br>
+</br>
+</br>
+</a>
+<a href="https://steamcommunity.com/id/einseidhe/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/steam.svg" />
+</a>
+<a href="https://t.me/AVE_MITRA">
+  <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/telegram.svg" />
+</a>
+<a href="https://twitter.com/ave_m1tra">
+  <img align="left" alt="Twitter" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/twitter.svg" />
+</a>
+ </p>
+ 
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=sultansuleev&&show_icons=true&theme=dracula"/>
+  </a>
+  </p>
+
+*************
