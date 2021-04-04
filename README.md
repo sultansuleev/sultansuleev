@@ -74,8 +74,13 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://t.me/AVE_MITRA">
   <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/telegram.svg" />
 </a>
+
+</br>
+</br>
+</br>
+
 <a href="https://twitter.com/ave_m1tra">
-  <img align="left" alt="Twitter" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/twitter.svg" />
+  <img align="center" alt="Twitter" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/twitter.svg" />
 </a>
  </p>
  
