@@ -9,7 +9,7 @@
 
 # About ME 💬 :
 
-### - My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a a dream
+### - My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dream
 
 <img hight="400" width="500" alt="jpg" align="right" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/hX3PGWN91fc.jpg">
 
