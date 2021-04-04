@@ -33,7 +33,13 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/bootstrap.svg" alt="bootstrap" width="120" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/css3.svg" alt="CSS3"  width="100" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/html.svg" alt="HTML5" width="90" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/java.svg" alt="Java" width="100" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/js.svg" alt="JS" width="180" hight="50">
+</br>
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/react.svg" alt="React" width="270" hight="50">
 </p>
 </br>
 </br>
