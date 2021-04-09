@@ -4,7 +4,7 @@
 
 My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dream
 
-#### Languages & Tools🛠
+#### Languages & Tools 🛠:
 
 MYSQL / JS / NODE JS / REACT JS / HTML / CSS / BOOSTRAP / GITHUB / REST API / JAVA
 
