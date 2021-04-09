@@ -1,99 +1,14 @@
-<div align="center">
-<img width="100%" alt="jpg" align="center" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/AVhFDfZzHEQ.jpg">
-</div>
+### Hi! 👋
 
-</br>
-</br>
-</br>
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/AVhFDfZzHEQ.jpg" alt="Just Banner">
 
+My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dream
 
-# About ME 💬 :
+#### Languages & Tools🛠
 
-### - My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dream
-
-<img hight="400" width="500" alt="jpg" align="right" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/hX3PGWN91fc.jpg">
-
-### - Learning :
-- ✨ SpringBoot
-- ✨ .NET Core
-
-### - Hobbies : 
-- ✨ Playing Games
-- ✨ Watching Anime
-- ✨ Reading Japanese, Chinese and Korean Novels and Manga
-
-</br>
-</br>
-</br>
+MYSQL / JS / NODE JS / REACT JS / HTML / CSS / BOOSTRAP / GITHUB / REST API / JAVA
 
 
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/bootstrap.svg" alt="bootstrap" width="180" hight="60">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/css3.svg" alt="CSS3"  width="180" hight="60">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/html.svg" alt="HTML5" width="180" hight="60">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/java.svg" alt="Java" width="180" hight="60">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/js.svg" alt="JS" width="180" hight="60">
-
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/react.svg" alt="React" width="180" hight="60">
-</p>
-</br>
-</br>
-</br>
-
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-<img hight="320" width="450" align="right" alt="jpg" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/9pSnJM-rrSo.jpg">
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:aeolusumeros@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/gmail.svg" />
-</a>
-<a href="https://www.linkedin.com/in/султан-сулеев-1616a3162/">
-  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/linkedin.svg" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://steamcommunity.com/id/einseidhe/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/steam.svg" />
-</a>
-<a href="https://t.me/AVE_MITRA">
-  <img align="left" alt="Telegram" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/telegram.svg" />
-</a>
- </p>
- 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
 </br>
 </br>
 
@@ -106,3 +21,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
   </p>
 
 *************
+**
+
