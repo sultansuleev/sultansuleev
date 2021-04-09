@@ -1,6 +1,6 @@
-### Hi! 👋
-
 <img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/AVhFDfZzHEQ.jpg" alt="Just Banner">
+
+### Hi! 👋
 
 My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dream
 
