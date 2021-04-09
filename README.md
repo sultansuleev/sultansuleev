@@ -33,13 +33,13 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/bootstrap.svg" alt="bootstrap" width="120" hight="50">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/css3.svg" alt="CSS3"  width="100" hight="50">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/html.svg" alt="HTML5" width="90" hight="50">
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/java.svg" alt="Java" width="100" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/bootstrap.svg" alt="bootstrap" width="180" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/css3.svg" alt="CSS3"  width="180" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/html.svg" alt="HTML5" width="180" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/java.svg" alt="Java" width="180" hight="50">
 <img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/js.svg" alt="JS" width="180" hight="50">
 </br>
-<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/react.svg" alt="React" width="270" hight="50">
+<img src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/react.svg" alt="React" width="180" hight="50">
 </p>
 </br>
 </br>
@@ -63,7 +63,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/gmail.svg" />
 </a>
 <a href="https://www.linkedin.com/in/султан-сулеев-1616a3162/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/sultansuleev/sultansuleev/blob/main/assets/icons/linkedin.svg" />
 </br>
 </br>
 </br>
