@@ -15,7 +15,7 @@
 
 ### - Learning :
 - ✨ SpringBoot
-- ✨ .Net Core
+- ✨ .NET Core
 
 ### - Hobbies : 
 - ✨ Playing Games
