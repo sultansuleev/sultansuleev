@@ -10,7 +10,7 @@ MYSQL / JS / NODE JS / REACT JS / HTML / CSS / BOOSTRAP / GITHUB / REST API / JA
 
 #### Learning:
 
-GOLANG
+ANGULAR
 
 
 </br>
