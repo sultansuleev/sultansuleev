@@ -8,10 +8,6 @@ My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dr
 
 MYSQL / JS / NODE JS / REACT JS / HTML / CSS / BOOSTRAP / GITHUB / REST API / JAVA
 
-#### Learning:
-
-ANGULAR
-
 
 </br>
 </br>
