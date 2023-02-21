@@ -2,13 +2,13 @@
 
 ### Hi! 👋
 
-My name is Sultan Suleev, I'm 20 years  old programmer, bachelor and I have a dream
+My name is Sultan Suleev, I'm 21 years  software engineer, bachelor and I have a dream
 
 ( <a href="https://gitlab.com/sultansuleev"> Link To My GitLab Page</a>)
 
 #### Languages & Tools 🛠:
 
-MYSQL / JS / NODE JS / REACT JS / HTML / CSS / BOOSTRAP / GITHUB / REST API / JAVA
+MYSQL / JS / NODE JS / ANGULAR / RXJS / NGRX / REACT / REDUX / REDUX-THUNK / HTML / CSS / BOOSTRAP / GITHUB / REST API / JAVA
 
 
 </br>
